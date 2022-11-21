@@ -62,4 +62,4 @@ Rana Alwakil - r.alwakil7@gmail.com
 [gitHub-actions-url]: https://docs.github.com/en/actions
 
 [GithubWorkflow]: https://github.com/rna87/fargate-api-app/actions/workflows/terraform.yml/badge.svg
-[GithubWorkflow-url]: https://github.com/rna87/fargate-api-app/actions/workflows/terraform.yml
+[GithubWorkflow-url]: https://github.com/rna87/Displayr-hello-world/actions/workflows/terraform.yml
