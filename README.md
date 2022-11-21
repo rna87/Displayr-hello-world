@@ -12,7 +12,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A simple RestApi that is deployed to AWS Fargate using githuab Actions and Terraform.
+A simple RestApi that is deployed to AWS Fargate using github Actions and Terraform.
 
 
 
@@ -26,7 +26,10 @@ A simple RestApi that is deployed to AWS Fargate using githuab Actions and Terra
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Project Scope  -->
+## Project Scope
 
+Using infrastructure as code, set up a hello world web server in AWS/Azure, and write a script for the server health check.
 
 
 <!-- CONTACT -->
@@ -35,8 +38,6 @@ A simple RestApi that is deployed to AWS Fargate using githuab Actions and Terra
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Rana Alwakil - r.alwakil7@gmail.com
-
-Project Link: [https://github.com/rna87/fargate-api-app](https://github.com/rna87/fargate-api-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
